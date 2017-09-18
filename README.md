@@ -1,6 +1,17 @@
 # MSLT-Corpus
 Microsoft Speech Language Translation (MSLT) Corpus
 
+# Releases
+**MSLT v1.1**
+- URL: [https://www.microsoft.com/en-us/download/details.aspx?id=55951](https://www.microsoft.com/en-us/download/details.aspx?id=55951)
+- Date: September 14, 2017
+- Description: Contains English, Chinese, and Japanese
+
+**MSLT v1.0**
+- URL: [https://www.microsoft.com/en-us/download/details.aspx?id=54689](https://www.microsoft.com/en-us/download/details.aspx?id=54689)
+- Date: February 2, 2017
+- Description: Contains English, French, and German
+
 # License
     Project title: MSLT Corpus
     Copyright (c) Microsoft Corporation
